@@ -1,9 +1,11 @@
 # live_likes_for_instagram
 Python script for adding likes for instagram
 
-<b> Usage: </b> 
-1) Copy auto_method.py and run it using python 3
-2) Copy and paste the link to your photo or video
+<b> Usage: </b>
+<ol>
+<li> Copy auto_method.py and run it using python 3</li>
+<li> Copy and paste the link to your photo or video</li>
+</ol>
 <b> Example: </b> 
 <ul>
 <li>Paste your image or video link:</li>
