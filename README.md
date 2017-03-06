@@ -8,7 +8,7 @@ Python script for adding likes for instagram
 <ul>
 <li>Paste your image or video link:</li>
 <li><b><i>https://www.instagram.com/p/BRTScrvAIus/ </i></b></li>
-<li>More than: 270</li>
+<li>More than: <b text='red'><i>270</i></b></li>
 <li>Program will work until current likes amount will be more than wanted likes amount !</li>
 <li>It means that after some time your like amount will be more than wanted !</li>
 <li>Your current likes amount is - 264</li>
